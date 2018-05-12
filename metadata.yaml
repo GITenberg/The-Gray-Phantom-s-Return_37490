@@ -1,0 +1,27 @@
+_repo: The-Gray-Phantom-s-Return_37490
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Landon, Herman
+    birthdate: 1882
+    deathdate: 1960
+    gutenberg_agent_id: '38872'
+    url: http://www.gutenberg.org/2009/agents/38872
+description: ''
+gutenberg_issued: '2011-09-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37490'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Fiction'
+title: The Gray Phantom's Return
+url: http://www.gutenberg.org/ebooks/37490
